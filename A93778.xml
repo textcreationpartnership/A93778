@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Protestant souldier's congratulation to the Prince of Orange, in a new letany, or, Prayers against Popery· Being thought necessary to be added to the daily devotions of private families at all times, but more especially in this present juncture of affairs in England. By Captain Anthony Stampe, sometimes chief engineer and adjutant general to an active Protestant Army against the rebels in Ireland.</title>
+            <author>Stampe, Anthony.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93778</idno>
+            <idno type="STC">Wing S5192</idno>
+            <idno type="STC">ESTC R229849</idno>
+            <idno type="EEBO-CITATION">99895535</idno>
+            <idno type="PROQUEST">99895535</idno>
+            <idno type="VID">153006</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93778)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153006)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2339:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Protestant souldier's congratulation to the Prince of Orange, in a new letany, or, Prayers against Popery· Being thought necessary to be added to the daily devotions of private families at all times, but more especially in this present juncture of affairs in England. By Captain Anthony Stampe, sometimes chief engineer and adjutant general to an active Protestant Army against the rebels in Ireland.</title>
+                  <author>Stampe, Anthony.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A.S.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>in the year MDCLXXXVIII. [1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing CD-ROM, 1996.</note>
+                  <note>Below imprint is written: 17. Dec.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  England --  Early works to 1800.</term>
+               <term>Protestantism --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153006:1" rendition="simple:additions"/>
+            <p>A Proteſtant Souldier's CONGRATULATION To the PRINCE of ORANGE, IN A NEW LETANY, OR, PRAYERS AGAINST POPERY.</p>
+            <p>Being thought neceſſary to be added to the <hi>DAILY DEVOTIONS of PRIVATE FAMILIES</hi> At all TIMES, But more eſpecially in this preſent juncture of AFFAIRS in <hi>ENGLAND.</hi>
+            </p>
+            <p>By Captain <hi>ANTHONY STAMPE,</hi> Sometimes Chief Engineer and Adjutant General to an Active Proteſtant ARMY againſt the Rebels in <hi>IRELAND.</hi>
+            </p>
+            <p>Printed for <hi>A. S.</hi> in the Year MDCLXXXVIII. <add>17. Dec.</add>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:153006:2"/>
+            <pb facs="tcp:153006:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>IT is ſtrange to ſee a Souldier in theſe days at his Pray<g ref="char:EOLhyphen"/>ers without Beads, whereas moſt part of our Profeſ<g ref="char:EOLhyphen"/>ſion are Irreligious, which how ſhould it otherwiſe be, being addicted as they are (eſpecially in theſe looſe times too much tollerated to Blaſpheme their Maker with <hi>God Damme's;</hi> and he is accounted the Braveſt Souldier amongſt them that can thunder forth the moſt Oaths with an Audacious Braſen Face, and be of great<g ref="char:EOLhyphen"/>eſt Repute, who commits the Fouleſt Ennormities; and for Murther it Self, flies to the Court Sanctuary and gets his Pardon; which Irregular Practices are un<g ref="char:EOLhyphen"/>ſufferable in a Chriſtian Countrey, to the great diſho<g ref="char:EOLhyphen"/>nour of our Noble Profeſſion; for a Right Valiant Soul<g ref="char:EOLhyphen"/>dier Fights only in a Good Cauſe, for the Honour of his Prince and Countrey, as truly Religious, carrying his Life momentary in his hands: For Devotion is more requiſite in him than in other Callings, which are leſs hazardous; ſuch a Souldier will chearfully be ready
+<pb facs="tcp:153006:3"/>at all times to Fight againſt the Common Enemy (and no Other) with Reſolution and Courage undauntable for Victory; having before-hand his Peace made with God: Should he Die thus in the Bed of Honour, he will be Safe in the other World; when the Prophane Souldier wallowing in his Blood, breathing out his Ghoſt died deep in Sin, will be denied his entrance into Eter<g ref="char:EOLhyphen"/>nal Bliſs.</p>
+            <p>The Chief Cauſe of our Souldiers Debauchery in <hi>England,</hi> is by the ill Example of their Officers, who glories in their wicked doings, being not at firſt Right Diſciplin'd Souldiers, made by Favour, without Merrit, having little or no Religion in them; the <hi>King</hi>'s <hi>Army,</hi> for the greateſt part of his Officers, are compoſed with <hi>Such</hi> and <hi>Papiſts:</hi> I hope ſhortly to ſee a <hi>Parliament</hi> Sit, to Free us of theſe evil <hi>Peſts,</hi> and to Redreſs all other <hi>Grievances</hi> of this <hi>Nation,</hi> whereby the <hi>Pro<g ref="char:EOLhyphen"/>teſtant Religion</hi> may for ever Proſper and Flouriſh, to the Glory of <hi>God,</hi> with the utter Downfal of <hi>Popery.</hi> I bid you heartily Adue, and Recommend you to my Prayers made by a Souldier, yet judged uſeful for Private Families, as well as for the Occaſion of theſe Times.</p>
+            <closer>
+               <signed>Yours A. STAMPE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:153006:3"/>
+            <head>A Proteſtant Souldier's CONGRATULATION To the PRINCE of ORANGE, &amp;c.</head>
+            <div type="prayer">
+               <head>A Prayer in Remembrance of the Seven Biſhops Impriſonment.</head>
+               <p>LOok down O Lord from thy Eternal Habitation, upon this Sinful Land, that hath tranſgreſſed a<g ref="char:EOLhyphen"/>gainſt Thee, and have not regarded the Words of thy Divine Meſſengers, whom Thou haſt Or<g ref="char:EOLhyphen"/>dained to Convince them of their Sins; who inſtead of Obeying thy Precepts taught by them, have been Diſobe<g ref="char:EOLhyphen"/>dient Children, by Committing thoſe Holy Men to Priſon, and Perſecuting them with Severity for Delivering thy Truth, and for Oppoſing what was Propos'd to be hurt<g ref="char:EOLhyphen"/>ful unto thy People Committed to their Charge: Quiet and ſettle Right the Minds of Men from falling into Con<g ref="char:EOLhyphen"/>fuſion and Ruin, ſo much threatned by our Mortal Adver<g ref="char:EOLhyphen"/>ſaries the Pope and Devil: <hi>Good Lord Deliver us from them.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <pb n="2" facs="tcp:153006:4"/>
+               <head>A Prayer whereby the Biſhops, and other Holy Di<g ref="char:EOLhyphen"/>vines, may prevail with God for the Sins of this Nation.</head>
+               <p>WE beſeech Thee, Dear Father of Heaven, to per<g ref="char:EOLhyphen"/>mit thoſe Godly Men, which have thus been Re<g ref="char:EOLhyphen"/>ligious Sufferers for thy Goſpel, to Prevail with Thee now at the brink of Danger (as Thou haſt done to Thy Ser<g ref="char:EOLhyphen"/>vants of Old) to pacify Thy Heavy Wrath gone out a<g ref="char:EOLhyphen"/>gainſt this Sinful Land, for their backſlidings from Thee; Oh! Heal theſe Infirmities which are fallen upon us, and Unite all Proteſtants to accord together in Brotherly love, whereby we may Live in Holineſs and Righteouſneſs, all the Days of our Lives; and after Us our Childrens Chil<g ref="char:EOLhyphen"/>dren, from One Generation to another, may intirely ſo continue, whilſt the Sun and Moon endures: <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <head>A Prayer for rooting out of Popery.</head>
+               <p>WE Beſeech Thee, the Creator and Maker of all Things, to Blaſt, Baniſh and Root up by the Roots Popery, from all Proteſtant Countreys; eſpecially where we now Live; and in Thy own Good Time, haſten it (for the Elect Sake) out of the World: Calling in thy Ancient People the Jews, and likewiſe the Gentiles, to bring them into our Proteſtant Faith, agreeable to the Primitive Inſtitution of our Bleſſed Saviour and his Apoſtles, who left it unto us to follow, becauſe our Salvation de<g ref="char:EOLhyphen"/>pends thereon; ſo that nothing is to be added or taken
+<pb n="3" facs="tcp:153006:4"/>away from the Written Word of God, upon Condemnation: Yet the Papiſts (as it is well known) have left out amongſt them what was Eſſential, and introduc'd in the room there<g ref="char:EOLhyphen"/>of, many Falſe Ridiculous Ways of Worſhiping of Thee, with Prophane, Superſtitious Idolatry, being againſt Thy Expreſs Commandments, in defiance of Thee: They have lately Sow'd in this Land, as they have done in other Parts of the World, their faſt growing Seeds of Iniquity, to choak thy Good Word of the Goſpel, long ſince Planted amongſt us, which they have attempted to do by their Jeſuitical Plots of the Devil and Pope, to eradicate Pro<g ref="char:EOLhyphen"/>teſtantiſm, whereby they might the betrer Accompliſh their Infernal Intentions and Wicked Deſigns to turn all Chriſtian Kingdoms into Popedoms; and to that end their Helliſh Works may be forwarded, they have Erected in<g ref="char:EOLhyphen"/>numerable Numbers of Popiſh Schools, Maſs-Houſes, Convents, Nunneries, &amp;c. contrary to thy Will and the Eſtabliſhed Laws of theſe Proteſtant Nations, and by them they have allured and inticed away from us, unſtable and wandring Souls, for Novelty, Lucre and Gain. Be<g ref="char:EOLhyphen"/>ſides, They have publickly denied the Holy Bible to be the Written Word of God; their Emiſſaries the Prieſts, are furthermore ſo nimble and buſy to Attend Sick Dying Perſons and Malefactors (that are to ſuffer by Law) that they give them no reſt till they have Subverted them from the Proteſtant Faith they ſhould Die in, and ſo cheat them of their Everlaſting Happineſs, they elſe might In<g ref="char:EOLhyphen"/>joy to all Eternity: We pray Thee O Lord to Deliver us from ſuch Helliſh Guides that would thus dazle our Eyes with Falſe Deluſions to intrap our Souls by: <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <pb n="4" facs="tcp:153006:5"/>
+               <head>A Prayer for calling back thoſe which are gone aſtray.</head>
+               <p>WE beſeech Thee O Lord, who art the Great Phyſician of our Souls, that Thou wilt be pleas'd to Heal all the Breaches <hi>Popery</hi> hath made in <hi>Great Bri<g ref="char:EOLhyphen"/>tain</hi> and <hi>Ireland,</hi> and all other <hi>Proteſtant Countreys;</hi> bring them in with True Repentance back again, who have fallen away from our Faith; and likewiſe Recon<g ref="char:EOLhyphen"/>cile and Unite all Proteſtants, who otherwiſe have been Diſ<g ref="char:EOLhyphen"/>joynted thereby, to Live together in Love and Amity one with another, without further Jarring; and from henceforth to be all contented to Sing ſeverally or joynt<g ref="char:EOLhyphen"/>ly, their Sweet Hallelujah's to Thee, for this Harmoni<g ref="char:EOLhyphen"/>ous and Religious Agreement, without having any more Differences by their Controverſies to ariſe amongſt them, but that they may abide together in Sobriety and Charity to the End of the World, ſhall be our Daily Prayers <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <head>A Prayer for delivery from Famine.</head>
+               <p>VVE Beſeech Thee, O Lord, who is the Alone Diſpoſer of all Things; That Thou wouldſt be pleaſed to Preſerve theſe Three Nations, from the Dread<g ref="char:EOLhyphen"/>fulneſs of Famine, and to Beſtow the Kindly Fruits of the Earth in their Seaſons; with Plenty of Wholſom Food for the People therein, to Feed thereon: which we moſt earneſtly deſire for Thy Son Chriſt Jeſus Sake. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <pb n="5" facs="tcp:153006:5"/>
+               <head>A Prayer for Delivery from the Plague, Peſtilence and Sword.</head>
+               <p>WE beſeech thee, O Lord, who is the giver and preſerver of Life, to defend and keep theſe Nati<g ref="char:EOLhyphen"/>ons from the moſt dangerous Diſeaſes of Plague, Peſtilence and devouring Sword, to come into theſe Lands any more amongſt us, to ſweep away the people therein. From ſud<g ref="char:EOLhyphen"/>den Death and inteſtine Wars, Good Lord deliver us.</p>
+            </div>
+            <div type="prayer">
+               <head>A Prayer for the City of <hi>London</hi> againſt Fire.</head>
+               <p>WE beſeech thee, O Lord, who never ſleepeth nor ſlumbreth, to watch over the City of <hi>London</hi> and Suburbs, be thou at all times the Protector thereof, and defend it from the Malice, Craft, and Subtilty of our Adverſaries the Papiſts, our common Enemies, that ſtudy the Deſtruction of our Renowned City, by their Diabolical Practices to bring it again by Fire into Aſhes. We return thy Almightineſs our grateful Thanks in cauſing their Treacherous Intentions, which were for a ſecond Conflagra<g ref="char:EOLhyphen"/>tion, and to be diſcovered, hath Alarmed our Inhabitants to be upon their Guards for prevention: The Papiſts ſince finding their Swords blunted, their Gun-powder damped, and the reſt of their Arms made uſeleſs, and thereby diſ<g ref="char:EOLhyphen"/>appointed from doing our Proteſtant Friends any harm, that is come over to our Succour, which thou haſt mira<g ref="char:EOLhyphen"/>culouſly performed beyond the expectation of Man: Yet
+<pb n="6" facs="tcp:153006:6"/>ſtill the Papiſts are further miſchievouſly bent, to act by <hi>Achitophel</hi>'s Counſels, contrived at <hi>Rome</hi> and hatched in Hell: We therefore humbly deſire thee likewiſe, to bring all their Deeds of Darkneſs to Light, ſo that they may ne<g ref="char:EOLhyphen"/>ver take effect, but be always addled and fruſtrated to nought, ſtinking, as they do, in the Noſtrils of all good Men. We again pray thee, that thou would'ſt be pleas'd in favour of ſome Righteous Souls, to be found among'ſt us to ſtand up before thee, to pacifie thy diſpleaſure for the Sins here committed againſt thee; whereby this City may be ſaved and ſheltered under thy Wings from the Papiſts in<g ref="char:EOLhyphen"/>f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rnal Fury, with Fire to reduce her to another Rubbiſh. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <head>A Prayer for the Relief of the Poor.</head>
+               <p>WE beſeech, O Lord, the giver and lender of all things, out of thy free and wonted bounty unto thoſe which have acquired it by thy providence and their Induſtry, to enjoy a plentiful Eſtate, to no other purpoſe, then that they ſhould do good therewith, proportionably as they are enabled in the Generation they live in, by cheer<g ref="char:EOLhyphen"/>fully relieving the crying Neceſſities of the Poor; for thoſe that are negligent in feeding the Hungry and clothing the Naked, thou wilt certainly call them to an account of their Stewardſhip, who have no right to what they have but by thee. We heartily pray thee to open their Eyes and Hands that are ſhut with luke-warm Charity, whereby they may freely give their ſupply to the wants of the Needy, that the Poor might not murmur againſt thee, but receive their
+<pb n="7" facs="tcp:153006:6"/>charitable Benovelence from the well Minded, which will cauſe them to return thy Divine Majeſty Prayers of Thanks for their daily Bread, which we intreat thee, the God of Compaſſion to grant them. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <head>A Prayer for the Two Armies in <hi>England.</hi>
+               </head>
+               <p>VVE beſeech thee, moſt wonderful Jehovah, for thy dear Sons ſake, the Captain General of our Salvation (if it be thy bleſſed Will) to turn the Minds and Hearts of the Proteſtant Souldiers of both Armies, now in <hi>England,</hi> from engaging one againſt the other, and from ſhedding any more Blood in a Proteſtant Cauſe, but that they may be united together into one intire Army, under the Conduct of a <hi>Proteſtant Prince,</hi> for to vanquiſh and overcome the Tyrants of the Earth, and to pull down An<g ref="char:EOLhyphen"/>ti-chriſt, the Whore of <hi>Babylon,</hi> whereby thy Goſpel may be preached in Purity and ſoundneſs of Doctrine, thro' out the whole World. We intreat thee again to bring in all that are without our Pale, into the <hi>Proteſtant Faith,</hi> whereby thy Name may be called upon by all, and Wor<g ref="char:EOLhyphen"/>ſhipped in True Holineſs; to theſe our devour deſires, we pray thee that thou would'ſt hear us, and anſwer us here<g ref="char:EOLhyphen"/>in, to whom all Honour and Glory be for ever given. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <pb n="8" facs="tcp:153006:7"/>
+               <head>A Prayer againſt Oppreſſion and Slavery.</head>
+               <p>O Almighty Lord, thou did'ſt open our Lips, that our Tongues ſhould expreſs the Miſeries we were fallen into, for thou art a Compaſſionate God, and hath pro<g ref="char:EOLhyphen"/>miſed unto thoſe which truly rely on thee, that thou wilt not leave them nor forſake them, who ſhall call upon thy holy Name in time of need, and thy Ears ſhall not be ſtop<g ref="char:EOLhyphen"/>ped from hearing the complaints of the oppreſſed, and when thou ſeeſt it fit, thou wilt then relieve them. We do with humble Thankfulneſs confeſs thou haſt heard us, and anſwered us too out of thy loving Kindneſs, when we were even in our greateſt Extremities, gaſping as it were, expecting every moment to have our Throats cut by the bloody Conſpiracy of the Papiſts, who are profeſſed Ene<g ref="char:EOLhyphen"/>mies to thy Church, which was not only threatned upon us, but preparations were viſibly making to effect their de<g ref="char:EOLhyphen"/>teſtable deſigns upon us; at a time we were helpleſs in our ſelves, lying under the cruel Bondage of Slavery: had we reſiſted them in our reſtraint, they had made it Rebellion in us, and our Remedy had been worſe to us than our Diſ<g ref="char:EOLhyphen"/>eaſe, but we patiently ſubmitted under our heavy Yoke, to thy determinate Will, tho' our Afflictions were grievous unto us, to wait upon thy good time for our deliverance from our Mortal Adverſaries, the Papiſts in the mean while drove <hi>Jehu</hi> like, on their pre-meditated murthering Re<g ref="char:EOLhyphen"/>ſolutions
+<pb n="9" facs="tcp:153006:7"/>not to leave one Proteſtant alive in <hi>England,</hi> which thou haſt prevented them in, whereby we might live to Glorifie thy Name for ever. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <p>A Thankſgiving for our happy Deliverance from the ſlaugh<g ref="char:EOLhyphen"/>ter of our Blood-thirſty Butchers; from whom we daily ex<g ref="char:EOLhyphen"/>pected when we ſhould be brought forth to their Sham<g ref="char:EOLhyphen"/>bles for Slaughter, they having dexterouſly provided Iriſh Forces to be our fatal Executioners, and alſo a <hi>French</hi> Army, haſting over to be Actors in this ho<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rid, bloody Tragedy; theſe Iriſh Butchers were the Sons and Grand ſons to thoſe notorious barbarous Rebels, who in the Year 1641, in <hi>Ireland,</hi> Maſſacred of Engliſh and Scots Proteſtants, to the number of 200000 Men, Women, and Children, in cold blood, by divers inhumane new Inventions, to torture them into lingring Deaths, which thoſe poor precious ſouls under-went for profeſſing the Faith of the Proteſtant Religion, as it is truly re<g ref="char:EOLhyphen"/>corded by the late Sir <hi>John Temple,</hi> then Maſter of the Roles in that Kingdom, as may more at large appear; theſe Fry and Spawns of the Old Rebels, are foam<g ref="char:EOLhyphen"/>ing at the Mouths, with their tainted blood running hot in their veins, itching to be at work to mangle our Bodies, they being naturally fleſhed and hardned by the Devil to Murther, encouraged by their Prieſts, who tells them, The more Hereticks they kill of us, the more they Merit, and ſhall inherit for their great Service therein, our Poſſeſſions, by making of Rivers of Blood
+<pb n="10" facs="tcp:153006:8"/>to flow from Proteſtant Bodies, for them to triumph and wade in.</p>
+               <p>O Moſt bleſſed Lord, we have great reaſon on our ſide highly to praiſe and magnifie thee, that thou haſt by thy extraordinary care over us, preſerved us from the rage and fury of theſe our implacable Adverſaries, that would have deſtroyed us; therefore we return unto thy Divine Majeſty with our H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nds and Hearts lifted up to thee, our moſt humble and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rateful Thanks in chaining and tying up theſe rave<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ous Wolves, Whelps of Tygers, from being let looſe to worry us to Death, as it was de<g ref="char:EOLhyphen"/>ſigned by the Papiſts. Moſt wonderful Deliverer, thou haſt miraculouſly freed us from the Tyranny we were under, out of the paws and jaws of theſe Cannibal Men-eaters, by ſeaſonably ſending over to us a <hi>Proteſtant Prince,</hi> which is moſt nearly and dearly related to theſe Nations, with a puiſſant Army and a magnificent Fleet, to our Aid, Succour and Relief, purpoſely for to redeem us out of our Slavery we were enthrall'd in, and to maintain unto us our Religion, Laws, Liberties, Properties, and Birth<g ref="char:EOLhyphen"/>rights, being juſtly belonging to all the <hi>Proteſtants</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland,</hi> and <hi>Ireland,</hi> which otherwiſe would have been for ever loſt; and for theſe thy Bleſſings to our Deli<g ref="char:EOLhyphen"/>verances, all Honour and Glory to thee be for ever given. <hi>Amen</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <pb n="11" facs="tcp:153006:8"/>
+               <head>A Prayer for the Prince of <hi>Oranges's</hi> Succeſs.</head>
+               <p>THou, O Lord, haſt ſtrongly aſſiſted this Great Prince, beyond the expectation of our Enemies, who were Fortifying and Making vaſt Preparations againſt him both by Sea and Land, for to prevent him in his Religious Re<g ref="char:EOLhyphen"/>ſolutions: Thou haſt heard our Prayers for his Coming over to us, and for his Succeſs; and Thou didſt hear him for us and has proſpered him in all theſe his high Under<g ref="char:EOLhyphen"/>takings: We further pray Thee for a Bleſſing from Above, to Crown his Glorious Atchievements here below, that he may perfect theſe his Victories here over his and our Enemies, for Thy Glory, His Honour, and theſe Nations Welfare: <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <head>A Prayer for the Prince of <hi>Oranges</hi> Perſon.</head>
+               <p>VVE humbly beſeech Thee, O Lord, to Pre<g ref="char:EOLhyphen"/>ſerve and Defend from all Perils and Dangers whatſoever, Thy Dear Servant, next and immediate un<g ref="char:EOLhyphen"/>der Thee, Supream Deliverer of <hi>Great Britain</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> out of Popiſh Slavery, by the Grace of God, the moſt Potent, moſt Mighty, and moſt Illuſtrious, <hi>William Henry</hi> Prince of <hi>Orange,</hi> together with his Royal Conſort
+<pb n="12" facs="tcp:153006:9"/>our Gracious Princeſs. We heartily pray thee to grant them Iſſue to inherit their Vertues and Renowns, that their Days may be long and comforta<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e unto them. We be<g ref="char:EOLhyphen"/>ſeech thee likewiſe for thy grea<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Go<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pel ſake, that thou would'ſt be pleas'd to lead this great Captain on further to the Conqueſt of <hi>France, Rome,</hi> and other Popiſh Coun<g ref="char:EOLhyphen"/>treys, and that his Highneſs Head may be adorned with Diadems here, and after this Life in Heaven with a Crown of Glory. <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
